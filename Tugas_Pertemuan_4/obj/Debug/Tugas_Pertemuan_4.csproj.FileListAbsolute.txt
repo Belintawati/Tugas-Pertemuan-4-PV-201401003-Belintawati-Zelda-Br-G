@@ -1,0 +1,7 @@
+D:\SharpDev\Tugas_Pertemuan_4\Tugas_Pertemuan_4\obj\Debug\Tugas_Pertemuan_4.csprojResolveAssemblyReference.cache
+D:\SharpDev\Tugas_Pertemuan_4\Tugas_Pertemuan_4\obj\Debug\Tugas_Pertemuan_4.MainForm.resources
+D:\SharpDev\Tugas_Pertemuan_4\Tugas_Pertemuan_4\obj\Debug\Tugas_Pertemuan_4.csproj.GenerateResource.Cache
+D:\SharpDev\Tugas_Pertemuan_4\Tugas_Pertemuan_4\bin\Debug\Tugas_Pertemuan_4.exe
+D:\SharpDev\Tugas_Pertemuan_4\Tugas_Pertemuan_4\bin\Debug\Tugas_Pertemuan_4.pdb
+D:\SharpDev\Tugas_Pertemuan_4\Tugas_Pertemuan_4\obj\Debug\Tugas_Pertemuan_4.exe
+D:\SharpDev\Tugas_Pertemuan_4\Tugas_Pertemuan_4\obj\Debug\Tugas_Pertemuan_4.pdb
